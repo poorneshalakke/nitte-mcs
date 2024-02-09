@@ -1,0 +1,11 @@
+#college {
+    background-color: red;
+
+}
+a:hover{
+    color:black;
+    text-decoration: underline;
+}
+a:visited{  
+    color:red;
+}
